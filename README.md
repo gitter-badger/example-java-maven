@@ -1,4 +1,7 @@
 # [Codecov][1] Java Maven Example
+
+[![Join the chat at https://gitter.im/example-java-maven/community](https://badges.gitter.im/example-java-maven/community.svg)](https://gitter.im/example-java-maven/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Guide
 ### Travis Setup
 
